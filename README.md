@@ -12,7 +12,9 @@ Muckuuup studio in figma
 ![mockuuups-enqMVQ4Y6sd3ugrhpcFxnD](https://github.com/user-attachments/assets/221867d9-cd69-470a-99dd-64b232be4602)
 
 
-![mockuuups-vDiQrkmKsWkm32831P4WWy](https://github.com/user-attachments/assets/7171b0eb-23ce-44f0-8b11-ce384200fb30)
+
+![Uploading mockuuups-vDiQrkmKsWkm32831P4WWy (1).jpeg…]()
+
 
 
 
