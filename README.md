@@ -9,6 +9,13 @@ Muckuuup studio in figma
 
 
 
+![mockuuups-enqMVQ4Y6sd3ugrhpcFxnD](https://github.com/user-attachments/assets/221867d9-cd69-470a-99dd-64b232be4602)
+
+
+![mockuuups-vDiQrkmKsWkm32831P4WWy](https://github.com/user-attachments/assets/7171b0eb-23ce-44f0-8b11-ce384200fb30)
+
+
+
 
 DelishApp is a delivery application designed using Figma, employing UI/UX design principles to deliver a streamlined experience for users. The login and sign-up process is crafted with usability in mind, ensuring a smooth onboarding experience for new users and a seamless returning user experience. This involves intuitive form designs, clear call-to-action buttons, and error handling to guide users through the process.
 Moving to the food ordering section, the UI/UX design focuses on creating a visually appealing and user-friendly environment. Users are presented with a well-organized menu featuring options for ordering burgers, pizza, and chicken. The interface allows users to browse through categories, view item details, and make selections with ease. Emphasis is placed on clear imagery, concise descriptions, and intuitive navigation to enhance the user's decision-making process.
