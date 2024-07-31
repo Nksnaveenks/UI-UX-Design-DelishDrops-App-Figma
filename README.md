@@ -9,3 +9,5 @@ During the ordering process, the UI/UX design ensures a frictionless experience,
 
 Overall, DelishApp's UI/UX design in Figma focuses on combining aesthetic appeal with functionality, prioritizing user needs and intuitive interactions to create an engaging and efficient food delivery experience.
 
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/3a3dca57-7f38-4d72-aa64-501ccdf1fd28">
+
